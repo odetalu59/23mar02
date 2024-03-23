@@ -1,0 +1,23 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.www.siteleaf.net/superjp.html/sitemap.xml
+Sitemap: https://ftp.www.siteleaf.net/gilajp.html/sitemap.xml
+Sitemap: https://ftp.www.siteleaf.net/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.www.siteleaf.net/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.www.siteleaf.net/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.www.siteleaf.net/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.www.siteleaf.net/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.www.siteleaf.net/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.www.siteleaf.net/pakong86.html/sitemap.xml
+Sitemap: https://ftp.www.siteleaf.net/viral88.html/sitemap.xml
+Sitemap: https://ftp.www.siteleaf.net/clan4d.html/sitemap.xml
+Sitemap: https://ftp.www.siteleaf.net/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.www.siteleaf.net/elang212.html/sitemap.xml
+Sitemap: https://ftp.www.siteleaf.net/viral4d.html/sitemap.xml
